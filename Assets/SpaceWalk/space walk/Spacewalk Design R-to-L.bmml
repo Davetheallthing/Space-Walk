@@ -1,0 +1,182 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1873" measuredH="774" mockupW="1852" mockupH="771">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::TextArea" x="1499" y="149" w="374" h="203" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>40463</borderColor>
+        <text>%7Bcolor%3Agreen%7D%26area%201%26%7Bcolor%7D%0Aproblem%3A%20door%20has%20no%20power%0Asolution%3A%0A-%20pickup%20multitool%20from%20half%20constructed%20scratching%20post%0A-%20use%20multitool%20on%20chair%20to%20cut%20it%20open%0A-%20pull%20spine%20of%20chair%20out%0A-%20use%20spine%20as%20lever%20to%20pop%20open%20jammed%20helmet%20locker%0A-%20put%20helmet%20on%20you%0A-%20put%20helmet%20on%20cat%0A-%20shave%20wires%20from%20cat%20basket%20using%20multitool%0A-%20use%20multitool%20to%20open%20control%20panel%0A-%20use%20wires%20to%20rewire%20power%20from%20life%20support%20to%20door</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="947" y="363" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%26cargobay%26%0Acryopods%0A-vacuum%20cleaner-%0A-rope-%0Abox%20of%20junk%20%28-tube-%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="947" y="197" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%26messhall%26%0Amakeshift%20lab%0Ahammer%0Awelding%20torch%20%0A-bunsen%20burner%20tripod-%0A-duct%20tape-%0A-sieve-%0A-cannister%20of%20cream-</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextArea" x="731" y="197" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%26engineroom%26%0Acat%27s%20food%20bowl%0A-funnel-</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextArea" x="947" y="32" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%26quarters%26%0Abed%0Atoilet%0Ashower%20%28-shower%20piping-%29%0Ashower%20radio%20%28-battery%20pack-%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="516" y="197" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%26airlock%26%0Adepressurizer%20panel</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextArea" x="281" y="197" w="218" h="140" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%26the%20hull%26%0Ashooting%20stars%0Aemergency%20landing%20panel%20%28-wheel-%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="463" y="100" w="776" h="347" measuredW="776" measuredH="347" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="157" w="776" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="12"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::VRule" x="581" y="0" w="-1" h="347" measuredW="10" measuredH="100" zOrder="1" locked="false" isInGroup="12"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="__group__" x="272" y="3" w="1212" h="510" measuredW="1212" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="886" y="184" w="326" h="162" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="26">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <borderColor>40463</borderColor>
+            <shape>dottedRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="667" y="21" w="217" h="489" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="26">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <borderColor>9338051</borderColor>
+            <shape>dottedRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="236" y="184" w="431" h="162" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="26">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <borderColor>2848996</borderColor>
+            <shape>dottedRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="184" w="236" h="162" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="26">
+          <controlProperties>
+            <backgroundAlpha>0</backgroundAlpha>
+            <borderColor>12554240</borderColor>
+            <shape>dottedRect</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="898" y="163" w="36" h="-1" measuredW="36" measuredH="21" zOrder="4" locked="false" isInGroup="26">
+          <controlProperties>
+            <align>center</align>
+            <color>40463</color>
+            <text>area%201</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="675" y="0" w="40" h="-1" measuredW="40" measuredH="21" zOrder="5" locked="false" isInGroup="26">
+          <controlProperties>
+            <color>9338051</color>
+            <text>area%202</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="245" y="163" w="39" h="-1" measuredW="39" measuredH="21" zOrder="6" locked="false" isInGroup="26">
+          <controlProperties>
+            <color>2848996</color>
+            <text>area%203</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="11" y="163" w="40" h="-1" measuredW="40" measuredH="21" zOrder="7" locked="false" isInGroup="26">
+          <controlProperties>
+            <color>12554240</color>
+            <text>area%204</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::TextArea" x="1170" y="197" w="301" h="140" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%26bridge%26%0Achair%20%28-spine%20lever-%29%0Acontrol%20panel%0Ajammed%20helmet%20locker%20%28-helmets-%20%26%20-broken%20glass-%29%0A-cat-%20and%20-basket-%20%28-wiring-%29%0Ascratchpad%0A-multitool-</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::TextArea" x="1170" y="363" w="353" h="311" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>9338051</borderColor>
+        <text>%7Bcolor%3Apurple3%7D%26area%202%26%7Bcolor%7D%0Aproblem%3A%20engine%20room%20manual%20override%20too%20hot%20to%20turn%0Asolution%3A%0A-%20combine%20-broken%20glass-%20from%20helmet%20locker%20and%20-duct%20tape-%20to%20make%20cutters%0A-%20pick%20up%20duct%20tape%20from%20mess%20hall%0A-%20use%20cutters%20on%20shower%20piping%20to%20use%20it%20free%0A%20%20%20%20%20%20%20%20%20%28break%20shower%20head%20while%20doing%20so%29%0A-%20use%20multitool%20on%20cryopod%20panel%20to%20open%20it%0A-%20use%20lever%20to%20pop%20panel%20off%20%28frozen%20in%20place%29%0A-%20attach%20shower%20piping%20to%20cyropod%0A-%20tape%20it%20on%20with%20duct%20tape%0A-%20pickup%20bunsen%20burner%20tripod%20from%20lab%20in%20messhall%0A-%20pickup%20sieve%20from%20messhall%0A-%20put%20sieve%20on%20end%20of%20pipe%0A-%20place%20tripod%20under%20end%20of%20pipe%0A-%20tape%20together%20with%20duct%20tape%0A-%20press%20switch%20on%20cryopod%0A-%20handle%20cooled%2C%20can%20be%20turned</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextArea" x="272" y="516" w="219" h="90" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>2848996</borderColor>
+        <text>%7Bcolor%3Ablue%7D%26area%203%26%7Bcolor%7D%0Aproblems%3A%20%0A-%20engine%20flywheel%20damaged%0A-%20fuel%20pod%20destroyed%0A-%20airlock%20depressurised</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextArea" x="201" y="363" w="278" h="141" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>12554240</borderColor>
+        <text>%7Bcolor%3Ayellow5%7D%26area%204%26%7Bcolor%7D%0Aproblem%3A%20get%20fuel%20%28overhead%20shooting%20stars%29%0Asolution%3A%0A-%20tie%20cat%20to%20rope%0A-%20use%20rope-cat%20on%20shooting%20stars%0A-%20use%20fuel%20pod%20on%20cat%20with%20star%0A-%20use%20full%20fuel%20pod%20in%20engine%20room%0A-%20game%20over%20%3A%29</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::StickyNote" x="21" y="119" w="195" h="118" measuredW="109" measuredH="123" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20black%20%3D%20item%20that%20can%20be%20interacted%20with%2C%20but%20not%20moved%20or%20taken%0A-%20grey%20%3D%20item%20that%20can%20be%20picked%20up</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::SubTitle" x="50" y="22" w="-1" h="-1" measuredW="138" measuredH="31" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Spacewalk</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::TextArea" x="47" y="52" w="143" h="76" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>3355443</borderColor>
+        <text>A%20sudden%20engine%20fire%20has%20left%20the%20ship%20adrift%20with%20nothing%20but%20emergency%20power</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextArea" x="530" y="510" w="395" h="121" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>2848996</borderColor>
+        <text>%7Bcolor%3Ablue%7D%26area%203%26%7Bcolor%7D%20-%20airlock%20solution%3A%0A-%20open%20depressurizer%20panel%20with%20mulltitool%0A-%20use%20duct%20tape%20to%20tape%20funnel%20to%20vacuum%20clearer%20end%0A-%20attach%20to%20burst%20pipe%20using%20duct%20tape%0A-%20place%20empty%20cream%20canister%20in%20vacuum%0A-%20close%20door%0A-%20turn%20on%20vacuum</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::TextArea" x="530" y="364" w="395" h="138" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>2848996</borderColor>
+        <text>%7Bcolor%3Ablue%7D%26area%203%26%7Bcolor%7D%20-%20fuel%20pod%20solution%3A%0A-%20use%20canister%20of%20cream%20on%20food%20bowl%20%0A%20%20%20%20%20%20%20%20%20%28cat%20enters%20room%20to%20eat%29%0A-%20pickup%20cat%20basket%0A-%20place%20cat%20basket%20in%20lab%0A-%20hammer%20basket%20into%20shape%0A-%20use%20welding%20tool%20to%20seal%20edges%0A-%20pickup%20jury%20rigged%20fuel%20pod</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::StickyNote" x="1551" y="390" w="242" h="87" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15374745</color>
+        <text>%7Bcolor%3Ared%7D%26minigames%3F%26%7Bcolor%7D%0A-%20wiring%20minigame%20in%20area%201%0A-%20star%20catching%20game%20in%20area%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextArea" x="530" y="638" w="396" h="136" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>2848996</borderColor>
+        <text>%7Bcolor%3Ablue%7D%26area%203%26%7Bcolor%7D%20-%20engine%20broken%20solution%3A%0A-%20the%20winkle-engine%27s%20flywheel%20melted%20in%20the%20fire%21%0A-%20use%20cutter%20to%20scrape%20off%20melted%20wheel%0A-%20use%20lever%20to%20pry%20open%20landing%20panel%20on%20hull%0A-%20use%20battery%20pack%20to%20short%20circuit%20controls%20and%20lower%20wheel%0A-%20remove%20wheel%20using%20multitool%0A-%20weld%20wheel%20to%20tube%20in%20lab%0A-%20attach%20new%20flywheel%20to%20engine%20using%20multitool</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::VCurly" x="479" y="363" w="36" h="411" measuredW="180" measuredH="140" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>right</direction>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

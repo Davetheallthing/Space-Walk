@@ -1809,7 +1809,7 @@ namespace AC
 				}
 			}
 			
-			if (forwardAmount > 0f)
+			/*if (forwardAmount > 0f)
 			{
 				if (angle > 45f && angle < 135f)
 				{
@@ -1823,6 +1823,7 @@ namespace AC
 					return "D";
 				}
 			}
+			*/
 			
 			if (rightAmount > 0f)
 			{
